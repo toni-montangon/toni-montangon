@@ -1,5 +1,4 @@
 
-![portfolio](https://static.ib-formation.fr/content/uploads/2024/04/15110010/tendances-developpement-web-2024-ib-cegos-1.jpg)
 # Toni MONTANGON
 
 
