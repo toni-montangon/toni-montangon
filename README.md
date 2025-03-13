@@ -22,4 +22,4 @@ Toujours en quête de nouvelles connaissances, j’aime relever des défis et op
 
 
 ## 🛠 Skills
-HTML - CSS - JAVASCRIPT - PYTHON
+HTML - CSS - JAVASCRIPT - PYTHON - PHP - PHPMYADMIN
